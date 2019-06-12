@@ -49,6 +49,7 @@ export class ContactListComponent implements OnInit {
       email: '',
       subscriber_number: '',
       access_token: '',
+      code: '',
       phone: {
         work: '',
         mobile: ''
