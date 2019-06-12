@@ -4,6 +4,7 @@ export class Contact {
   email: string;
   subscriber_number: string;
   access_token: string;
+  code: string;
   phone: {
     mobile: string;
     work: string;
